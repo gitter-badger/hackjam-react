@@ -1,5 +1,11 @@
 ## HackJam ReactJS
 
+[![Join the chat at https://gitter.im/alexlbr/hackjam-react](https://badges.gitter.im/alexlbr/hackjam-react.svg)](https://gitter.im/alexlbr/hackjam-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Join [![Gitter](https://badges.gitter.im/hackages/hackjam-react.svg)](https://gitter.im/hackages/hackjam-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+Be nice to people, share love(code) here: [Codeshare](https://codeshare.io/SjNAK)
+
 ## Goal
 The goal of this exercise is to learn how to think in React. There are thousands of tutorials online but there's no better way to learn than hacking it yourself.
 
